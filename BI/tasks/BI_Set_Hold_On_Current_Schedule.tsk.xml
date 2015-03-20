@@ -1,0 +1,21 @@
+<TaskerData sr="" dvi="1" tv="4.5u1m">
+	<Task sr="task22">
+		<cdate>1379700053809</cdate>
+		<edate>1407982339247</edate>
+		<id>22</id>
+		<nme>BI-Set Hold On Current Schedule</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">BI-SetProfile</Str>
+			<Int sr="arg1" val="1"/>
+			<Str sr="arg2" ve="3">-1</Str>
+			<Str sr="arg3" ve="3">Hold</Str>
+			<Str sr="arg4" ve="3">%status</Str>
+			<Int sr="arg5" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_av_pause_over_video</nme>
+		</Img>
+	</Task>
+</TaskerData>

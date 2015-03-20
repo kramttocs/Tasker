@@ -1,0 +1,21 @@
+<TaskerData sr="" dvi="1" tv="4.5u1m">
+	<Task sr="task4">
+		<cdate>1379700053809</cdate>
+		<edate>1414032678858</edate>
+		<id>4</id>
+		<nme>BI-Set Away Temp</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">BI-SetProfile</Str>
+			<Int sr="arg1" val="1"/>
+			<Str sr="arg2" ve="3">2</Str>
+			<Str sr="arg3" ve="3">Temp</Str>
+			<Str sr="arg4" ve="3">%status</Str>
+			<Int sr="arg5" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_device_access_secure</nme>
+		</Img>
+	</Task>
+</TaskerData>
